@@ -37,7 +37,7 @@ def format_quote(quote, author):
 def start():
 
     add_bot(slack)
-    # add_bot(twitter)
+    add_bot(twitter)
 
     while True:
         post = ""
@@ -47,7 +47,7 @@ def start():
                 quote = wikiquotes.random_quote(author.name, author.language)
                 post = format_quote(quote, author.name)
 
-                print post
+                print(post)
             except Exception as e:
                 print(e)
                 pass
