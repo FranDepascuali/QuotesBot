@@ -29,7 +29,7 @@ def format_quote(quote, author):
     else:
         quote_format = "\"{}\" {}"
 
-    output_quote = quote.capitalize()
+    output_quote = quote.upper()
     output_author = "#{}".format(author.title().replace(" ", ""))
 
     return quote_format.format(output_quote, output_author)
@@ -58,7 +58,7 @@ def start():
             except Exception as e:
                 print(e)
                 pass
-            
+
         time.sleep(random.randint(MIN_MINUTES, MAX_MINUTES) * 60)
 
 def add_bot(bot):
