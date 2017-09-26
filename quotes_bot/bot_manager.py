@@ -29,10 +29,17 @@ def format_quote(quote, author):
     else:
         quote_format = "\"{}\" {}"
 
-    output_quote = quote.upper()
+    output_quote = _capitalize_first_letter(quote)
     output_author = "#{}".format(author.title().replace(" ", ""))
 
     return quote_format.format(output_quote, output_author)
+
+def _capitalize_first_letter(input_string):
+    for (index, character) in enumerate(input_string):
+        if character.isalpha():
+            return input_string.replace(character, character.upper(), 1)
+
+    return input_string
 
 def start():
 
