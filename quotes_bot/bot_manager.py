@@ -53,8 +53,12 @@ def start():
                 pass
 
         for bot in bots:
-            bot.publish(post)
-
+            try:
+                bot.publish(post)
+            except Exception as e:
+                print(e)
+                pass
+            
         time.sleep(random.randint(MIN_MINUTES, MAX_MINUTES) * 60)
 
 def add_bot(bot):

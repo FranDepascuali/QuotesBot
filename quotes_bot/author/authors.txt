@@ -19,7 +19,7 @@ napoleon, english
 edison, english
 mandela, english
 Genghis Khan, english
-rene favaloro, spanish
+favaloro, spanish
 cervantes, spanish
 sarmiento, spanish
 Mozart, english
@@ -33,16 +33,47 @@ Mark Zuckerburg, english
 magnus carlsen, english
 Bobby Fischer, english
 Garry Kasparov, english
-Pablo Picasso, english
+Picasso, spanish
 dalai lama, english
 sigmund freud, english
 george orwell, english
 dijkstra, english
 kafka, english
-francisco goya, español
+goya, español
 stephen king, english
 bioy casares, spanish
 garcia márquez, español
 Carlos Gardel, español
 stephen hawkings, english
 Newton, english
+Buddha, english
+Galeano, spanish
+Sartre, english
+Watt, english
+Adam Smith, english
+Pope Francis, english
+Stalin, english
+Henry Ford, english
+Charlemagne, english
+Kant, english
+Illia, spanish
+Sabato, spanish
+Cortazar, spanish
+Alberdi, spanish
+Schopenhauer, english
+Sartre, english
+Babbage, english
+Von Neumann, english
+Wozniak, english
+Vint Cerf, english
+Turing, english
+Shannon, english
+Godel, english
+Ada Lovelace, english
+Blaise Pascal, english
+John Lennon, english
+Jeff Bezos, english
+Mother Teresa, english
+Bill gates, english
+Copernicus, english
+
