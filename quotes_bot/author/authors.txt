@@ -76,3 +76,17 @@ Jeff Bezos, english
 Mother Teresa, english
 Bill gates, english
 Copernicus, english
+Tolkien, english
+Tolstoi, english
+Machiaveli, english
+Russel, english
+Pascal, english
+Programming, english
+Fowler, english
+Kerninghan, english
+Freedom, english
+Justice, english
+Corruption, english
+Corrupcion, español
+El arte de la guerra, español
+science, english
