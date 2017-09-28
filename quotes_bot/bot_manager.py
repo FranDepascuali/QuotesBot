@@ -10,8 +10,8 @@ from .author import author
 
 bots = []
 
-MIN_MINUTES = 10
-MAX_MINUTES = 20
+MIN_MINUTES = 7
+MAX_MINUTES = 14
 
 def fetch_all_authors():
     authors_path = os.path.join(os.path.abspath("./quotes_bot/author"), "authors.txt")
