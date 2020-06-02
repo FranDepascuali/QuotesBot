@@ -1,9 +1,14 @@
+Max Stirner, english
+René Descartes, english
+Lavoisier, english
+Giordano Bruno, english
 Bruce Lee, english
 Einstein, english
 Borges, spanish
 Aristotle, english
 Plato, english
 Nietzche, english
+Jose Ingenieros, spanish
 Isaac Newton, english
 Tesla, english
 Leonardo da Vinci, english
@@ -27,7 +32,6 @@ gaudi, english
 Voltaire, english
 linus torvalds, english
 chomsky, english
-Elon Musk, english
 Larry Page, english
 Mark Zuckerburg, english
 magnus carlsen, english
@@ -80,7 +84,6 @@ Tolkien, english
 Tolstoi, english
 Machiaveli, english
 Russel, english
-Pascal, english
 Programming, english
 Fowler, english
 Kerninghan, english
@@ -90,3 +93,4 @@ Corruption, english
 Corrupcion, español
 El arte de la guerra, español
 science, english
+Michel de Montaigne, english

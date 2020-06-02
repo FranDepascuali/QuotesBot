@@ -1,0 +1,3 @@
+wikiquotes==1.4
+slackclient==2.6.2
+tweepy==3.8.0

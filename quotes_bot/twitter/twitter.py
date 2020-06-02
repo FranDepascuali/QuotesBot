@@ -29,7 +29,7 @@ def get_new_quote():
     return quote
 
 def twit_is_valid(twit):
-    return len(twit) <= 140
+    return len(twit) <= 280
 
 def publish_tweet(twit):
     # create an OAuthHandler instance

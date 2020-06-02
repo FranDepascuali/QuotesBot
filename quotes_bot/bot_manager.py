@@ -43,7 +43,7 @@ def _capitalize_first_letter(input_string):
 
 def start():
 
-    add_bot(slack)
+    # add_bot(slack)
     add_bot(twitter)
 
     while True:
@@ -73,6 +73,6 @@ def add_bot(bot):
 
 def is_valid_twit(quote):
     quote_length = len(quote)
-    return quote_length > 0 and quote_length <= 140
+    return quote_length > 0 and quote_length <= 280
 
 start()
